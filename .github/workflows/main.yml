@@ -16,4 +16,4 @@ jobs:
     - name: Run bissect
       run: python myscript.py
     - name: Run tests
-      run: python run python3 manage.py test
+      run: python run python manage.py test
